@@ -54,9 +54,6 @@ def rename(root, file, renamed_files):
     original_index = int(original_files[original_files == file].index[0])
     os.rename(os.path.join(root, file), os.path.join(root, file_names[original_index].strip() + '.' + extension))
 
-# TODO: Save the original file names in a csv file so that this function knows
-#       where to find the original names of the files
-#       revert files to original names if rename doesn't work properly
 def revert(files):
     # Reverts all renamed files and columns to their original names
     for i in range(len(files)):
@@ -86,11 +83,9 @@ def scan_files(path, format):
 def scan_void(files):
     # Scans every filename for NaN and replaces it with '' string
     # to avoid TypeError while executing the rename function
-    print('\nIn the scan_void function\n') # delete when done
     for file in files:
         if file.isna():
             file = ''
-    print('void scanned files:\n{0}\n'.format(files)) # delete when done
 
 def walk(path, original_files, renamed_files):
     # Iterates through all files within the path and renames them
