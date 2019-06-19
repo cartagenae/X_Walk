@@ -100,6 +100,10 @@ if __name__ == '__main__':
     excel_files = scan_files(main_path, ['xlsx', 'xls'])
     while True: # Inside the main menu = 'files' cycle
         banner()
+        # Inform the user and close the program if x_walk scans no excel files
+        if len(excel_files) == 0:
+            print('There are no excel files work with')
+            farewell()
         print('Your excel files:\n')
         file_choice = display_menu(excel_files, 'files')
         if file_choice == 'x':
