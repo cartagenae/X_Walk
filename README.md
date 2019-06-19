@@ -91,7 +91,7 @@ After selecting all the columns you wish to use and entering 'n', enter 'y' to r
 
 <img width="766" alt="Usage_08" src="https://user-images.githubusercontent.com/6395465/59806920-ef654d80-92aa-11e9-973c-ba854f3dd817.png">
 
-Check your folder to see if your files have been renamed.
+Check your folder to confirm your files have been renamed.
 
 <hr />
 
