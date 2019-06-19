@@ -15,7 +15,7 @@ Useful if you have thousands of files stored in your file system that you wish t
 
 ## Installation
 
-### Run each line in your command prompt / terminal
+### Run each line seperately in your command prompt / terminal
 
 ```
 • git clone https://github.com/cartagenae/X_Walk/
