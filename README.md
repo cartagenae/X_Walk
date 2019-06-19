@@ -22,5 +22,7 @@ Useful if you have thousands of files stored in your file system.
 • pip install -r requirements.txt
 ```
 
+After installing the requirements file, place the x_walk.py file in the folder where your excel files are which document your files you want to rename. Also make sure that your excel files are on the same folder as your files you are going to rename
+
 ## How to Use ...
 
