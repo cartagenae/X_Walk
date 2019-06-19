@@ -17,9 +17,9 @@ Useful if you have thousands of files stored in your file system.
 ### Run each line in your command prompt / terminal
 
 ```
-git clone https://github.com/cartagenae/X_Walk/
-pip install --upgrade pip
-pip install -r requirements.txt
+• git clone https://github.com/cartagenae/X_Walk/
+• pip install --upgrade pip
+• pip install -r requirements.txt
 ```
 
 ## How to Use ...
