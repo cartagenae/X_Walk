@@ -29,6 +29,14 @@ https://www.python.org/downloads/windows/
 
 ### Run each line seperately in your command prompt / terminal
 
+### Mac / Linux
+```
+• git clone https://github.com/cartagenae/X_Walk/
+• pip3 install --upgrade pip
+• pip3 install -r requirements.txt
+```
+
+### Windows
 ```
 • git clone https://github.com/cartagenae/X_Walk/
 • pip install --upgrade pip
