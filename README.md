@@ -56,7 +56,7 @@ If you're using Windows type 'python x_walk.py'
 
 <img width="570" alt="Usage_1" src="https://user-images.githubusercontent.com/6395465/59801226-26ccfd80-929d-11e9-8c33-1827167149a2.png">
 
-X Walk will scan all your Excel files located on its folder and list them alphabetically.
+X Walk will scan all your Excel files located on its folder and list them alphabetically. <br />
 Enter the option number your Excel file is located at.
 
 <hr />
