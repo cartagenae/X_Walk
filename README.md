@@ -56,10 +56,10 @@ If you're using Windows type 'python x_walk.py'
 
 <img width="570" alt="Usage_1" src="https://user-images.githubusercontent.com/6395465/59801226-26ccfd80-929d-11e9-8c33-1827167149a2.png">
 
-<hr />
-
 X Walk will scan all your Excel files located on its folder and list them alphabetically.
-- [x] Enter the option number your Excel file is located at.
+Enter the option number your Excel file is located at.
+
+<hr />
 
 <img width="566" alt="Usage_2" src="https://user-images.githubusercontent.com/6395465/59802831-a6a79780-929e-11e9-98f2-4fcc7bd4c7c0.png">
 
