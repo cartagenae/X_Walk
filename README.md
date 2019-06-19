@@ -10,7 +10,7 @@ Rename your files documented on your excel spreadsheet automatically
 Useful if you have thousands of files stored in your file system.
 ```
 
-> NOTE: The files retain their original formats and extensions. For instance original.pdf is going to retain the same format and extension as newname.pdf. So will original.tif to newname.tif.
+> NOTE: The files retain their original formats and extensions.
 
 ## Installation
 
