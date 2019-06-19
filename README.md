@@ -9,7 +9,19 @@ Rename your files documented on your excel spreadsheet automatically
 
 __Useful if you have thousands of files stored in your file system that you wish to rename.__
 
-> NOTE: The files retain their original formats and extensions.
+> The files retain their original formats and extensions.
+
+## Requirements (Windows users only)
+
+> If you're running X Walk from a Mac or Linux, Git and Python are already installed in your system
+
+### Git
+https://git-scm.com/download/win
+
+### Python
+https://www.python.org/downloads/windows/
+
+> Install the latest version of Python 3
 
 ## Installation
 
