@@ -52,8 +52,8 @@ __After installing the requirements file:__
 ## How to Use ...
 
 __In your terminal / command prompt...__
-* Enter 'python3 x_walk.py'
-* If you're using Windows, enter 'python x_walk.py'
+* Enter __'python3 x_walk.py'__
+* If you're using __Windows__, enter __'python x_walk.py'__
 
 <img width="570" alt="Usage_1" src="https://user-images.githubusercontent.com/6395465/59801226-26ccfd80-929d-11e9-8c33-1827167149a2.png">
 
