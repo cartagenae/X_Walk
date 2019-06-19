@@ -16,6 +16,8 @@ def banner():
 
 def display_menu(lst, cycle, columns=None):
     # Displays the menu depending on what cycle the main function is running
+    if cycle == 'files':    # Sorts lst to display if displaying files
+        lst.sort()
     for i in range(len(lst)):
         print('{0}) {1}'.format(i + 1, lst[i]))
     if cycle != 'files':
@@ -110,8 +112,6 @@ if __name__ == '__main__':
             farewell()
         try:
             file_choice = int(file_choice)
-            print('type(file_choice): {}'.format(type(file_choice)))
-            print('file_choice: {}'.format(file_choice))
             if file_choice >= 1 and file_choice <= len(excel_files):
                 try:
                     main_file = pd.read_excel(excel_files[file_choice - 1])
@@ -119,7 +119,7 @@ if __name__ == '__main__':
                         print('\n{0} contains no columns to work with\n'.format(excel_files[file_choice - 1]))
                         input('Press Enter to continue...')
                         continue
-                    print('\nyour file choice: {0}'.format(excel_files[file_choice - 1]))
+                    print('\nyour file choice: {0}\n'.format(excel_files[file_choice - 1]))
                     print('your columns:\n')
                     total_columns = list(main_file)
                     while True: # 'column to rename' cycle
@@ -190,7 +190,6 @@ if __name__ == '__main__':
                                 columns_to_use.clear()
                                 continue
                             walk(main_path, original_files, file_names)
-                            input('Press Enter to continue...')
                             break
                         except ValueError as e: # exception for column_to_rename not as integer type
                             print('ValueError exception: {0}'.format(e))
