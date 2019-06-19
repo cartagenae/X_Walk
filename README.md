@@ -7,9 +7,7 @@ Rename your files documented on your excel spreadsheet automatically
 ### sample.xls
 <img width="588" alt="overview" src="https://user-images.githubusercontent.com/6395465/59730659-1151c800-91f8-11e9-910e-7215c0173d2f.png">
 
-```
-Useful if you have thousands of files stored in your file system that you wish to rename.
-```
+__Useful if you have thousands of files stored in your file system that you wish to rename.__
 
 > NOTE: The files retain their original formats and extensions.
 
@@ -26,7 +24,7 @@ Useful if you have thousands of files stored in your file system that you wish t
 __After installing the requirements file:__
 
 * Place the x_walk.py file in the same folder where the Excel file you're working with is located at.
-* Make sure that your original files documented on your Excel file are on the same folder too!
+* Make sure that your original files documented on your Excel file are on the same folder as well.
 
 <img width="771" alt="Screen Shot 2019-06-19 at 2 44 20 AM" src="https://user-images.githubusercontent.com/6395465/59755888-901d2400-923d-11e9-82e9-5d0371eae5bd.png">
 
