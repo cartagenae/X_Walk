@@ -4,8 +4,8 @@ Rename your files documented on your excel spreadsheet automatically
 
 ## Installation
 
-'''
+```
 git clone https://github.com/cartagenae/X_Walk/
 pip install --upgrade pip
 pip install -r readme.txt
-'''
+```
