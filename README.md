@@ -27,5 +27,7 @@ After installing the requirements file:
 * Place the x_walk.py file in the folder where your excel files are which document your files you want to rename.
 * Make sure that your excel files are on the same folder as your files you are going to rename
 
+<img width="771" alt="Screen Shot 2019-06-19 at 2 44 20 AM" src="https://user-images.githubusercontent.com/6395465/59755888-901d2400-923d-11e9-82e9-5d0371eae5bd.png">
+
 ## How to Use ...
 
