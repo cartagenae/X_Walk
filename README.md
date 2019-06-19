@@ -6,14 +6,12 @@ Rename your files documented on your excel spreadsheet automatically
 
 ## Installation
 
-clone a copy
-
-> git clone https://github.com/cartagenae/X_Walk/
+### Run each line in your command prompt / terminal
 
 ```
-> git clone https://github.com/cartagenae/X_Walk/
-> pip install --upgrade pip
-> pip install -r readme.txt
+git clone https://github.com/cartagenae/X_Walk/
+pip install --upgrade pip
+pip install -r readme.txt
 ```
 
 ## Usage ...
