@@ -73,4 +73,14 @@ Enter the option number of the column you are using to rename your original file
 
 Enter 'y'(es) or 'n'(o) to use another column.
 
+<img width="566" alt="Usage_7" src="https://user-images.githubusercontent.com/6395465/59806093-1706e680-92a8-11e9-8e90-2d8e400bf29c.png">
 
+After selecting all the columns you wish to use and entering 'n', enter 'y' to rename to the columns.
+
+<img width="767" alt="Usage_8" src="https://user-images.githubusercontent.com/6395465/59806167-49184880-92a8-11e9-8830-25a81cd6d41f.png">
+
+Check your folder to see if your files have been renamed.
+
+
+
+Type 'x' to close the program
