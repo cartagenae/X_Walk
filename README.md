@@ -43,7 +43,6 @@ https://www.python.org/downloads/windows/
 • pip install -r requirements.txt
 ```
 
-
 __After installing the requirements file:__
 
 * Place the x_walk.py file in the same folder where the Excel file you're working with is located at.
