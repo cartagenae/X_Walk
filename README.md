@@ -13,7 +13,7 @@ __Useful if you have thousands of files stored in your file system that you wish
 
 ## Requirements (Windows users only)
 
-- [x] __*** If you're running X Walk from a Mac or Linux, then Git and Python are already installed in your system.__
+__*** If you're running X Walk from a Mac or Linux, then Git and Python are already installed in your system.__
 
 
 ### Git
@@ -57,31 +57,31 @@ If you're using Windows type 'python x_walk.py'
 <img width="570" alt="Usage_1" src="https://user-images.githubusercontent.com/6395465/59801226-26ccfd80-929d-11e9-8c33-1827167149a2.png">
 
 X Walk will scan all your Excel files located on its folder and list them alphabetically.
-Enter the option number your Excel file is located at.
+- [x] Enter the option number your Excel file is located at.
 
 <img width="566" alt="Usage_2" src="https://user-images.githubusercontent.com/6395465/59802831-a6a79780-929e-11e9-98f2-4fcc7bd4c7c0.png">
 
 After choosing your file, X Walk scans all the columns within your spreadsheet and lists them.
-Enter the option number of the column containing the files you wish to rename.
+- [x] Enter the option number of the column containing the files you wish to rename.
 
 <img width="568" alt="Usage_3" src="https://user-images.githubusercontent.com/6395465/59804054-2d11a880-92a2-11e9-9ee1-9cc0f67edefa.png">
 
-Enter the option number of the column you are using to rename your original file.
+- [x] Enter the option number of the column you are using to rename your original file.
 
 <img width="568" alt="Usage_4" src="https://user-images.githubusercontent.com/6395465/59804800-369c1000-92a4-11e9-8db0-75df34121b02.png">
 
-Enter 'y'(es) or 'n'(o) to use another column.
+- [x] Enter 'y'(es) or 'n'(o) to use another column.
 
 <img width="566" alt="Usage_7" src="https://user-images.githubusercontent.com/6395465/59806093-1706e680-92a8-11e9-8e90-2d8e400bf29c.png">
 
-After selecting all the columns you wish to use and entering 'n', enter 'y' to rename to the columns.
+- [x] After selecting all the columns you wish to use and entering 'n', enter 'y' to rename to the columns.
 
 <img width="766" alt="Usage_08" src="https://user-images.githubusercontent.com/6395465/59806920-ef654d80-92aa-11e9-973c-ba854f3dd817.png">
 
-Check your folder to see if your files have been renamed.
+- [x] Check your folder to see if your files have been renamed.
 
 <img width="570" alt="Usage_09" src="https://user-images.githubusercontent.com/6395465/59806634-e4f68400-92a9-11e9-850c-b4c58a431ab7.png">
 
-Type 'x' to close the program
+- [x] Type 'x' to close the program
 
 <img width="568" alt="Usage_10" src="https://user-images.githubusercontent.com/6395465/59806657-f6d82700-92a9-11e9-818a-892651affda9.png">
