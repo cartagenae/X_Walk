@@ -23,9 +23,7 @@ https://git-scm.com/download/win
 ### Python
 https://www.python.org/downloads/windows/
 
-```
-Install the latest version of Python 3
-```
+> NOTE: Install the latest version of Python 3
 
 ## Installation
 
