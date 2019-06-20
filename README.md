@@ -21,6 +21,7 @@ https://git-scm.com/download/win
 
 ### Python
 > NOTE: Install the latest version of Python 3
+
 https://www.python.org/downloads/windows/
 
 ## Installation
