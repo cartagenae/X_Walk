@@ -85,7 +85,7 @@ Enter 'y'(es) or 'n'(o) to use another column.
 
 <img width="566" alt="Usage_7" src="https://user-images.githubusercontent.com/6395465/59806093-1706e680-92a8-11e9-8e90-2d8e400bf29c.png">
 
-After selecting all the columns you wish to use and entering 'n', enter 'y' to rename to the columns.
+After selecting all the columns you wish to use by entering 'n', enter 'y' to rename your chosen files.
 
 <hr />
 
