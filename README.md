@@ -24,6 +24,15 @@ https://git-scm.com/download/win
 
 https://www.python.org/downloads/windows/
 
+###### Check if you have Python installed on your machine:
+```
+python --version
+```
+###### Check if you have Git installed on your machine:
+```
+git --version
+```
+
 ## Installation
 
 ### Run each line seperately in your terminal / command prompt
