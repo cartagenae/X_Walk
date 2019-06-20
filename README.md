@@ -48,7 +48,7 @@ git --version
 ### Windows
 ```
 • git clone https://github.com/cartagenae/X_Walk/
-• cd X_Walk
+• cd X_Walk/
 • pip install --upgrade pip
 • pip install -r requirements.txt
 ```
