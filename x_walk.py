@@ -104,7 +104,7 @@ if __name__ == '__main__':
         banner()
         # Inform the user and close the program if x_walk scans no excel files
         if len(excel_files) == 0:
-            print('There are no Excel files work with')
+            print('There are no Excel files work with\n')
             input('Press Enter to continue...')
             farewell()
         print('Your excel files:\n')
