@@ -20,9 +20,8 @@ __*** If you're running X Walk from a Mac or Linux, then Git and Python are alre
 https://git-scm.com/download/win
 
 ### Python
-https://www.python.org/downloads/windows/
-
 > NOTE: Install the latest version of Python 3
+https://www.python.org/downloads/windows/
 
 ## Installation
 
