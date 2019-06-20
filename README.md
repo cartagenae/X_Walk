@@ -40,6 +40,7 @@ git --version
 ### Mac / Linux
 ```
 • git clone https://github.com/cartagenae/X_Walk/
+• cd X_Walk/
 • pip3 install --upgrade pip
 • pip3 install -r requirements.txt
 ```
@@ -47,6 +48,7 @@ git --version
 ### Windows
 ```
 • git clone https://github.com/cartagenae/X_Walk/
+• cd X_Walk
 • pip install --upgrade pip
 • pip install -r requirements.txt
 ```
