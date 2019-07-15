@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 __author__ = 'Eric Cartagena'
-__copyright__ = 'Copyright 2019, Eric Cartagena'
+__copyright__ = 'Copyright © 2019, Eric Cartagena'
 __license__ = 'MIT'
 
 import pandas as pd
@@ -195,18 +195,19 @@ if __name__ == '__main__':
                             walk(main_path, original_files, file_names)
                             break
                         except ValueError: # exception for column_to_rename not as integer type
-                            print('\nPlease enter the proper menu choice\n')
+                            print('\nYour input is not a valid menu choice\n')
+                            print('Please enter a valid input between {0} and {1}\n'.format(1, len(excel_files)))
                             input('Press Enter to continue...')
                         except IndexError as e: # exception for column_to_rename out of range
                             print('\nYour column choice is out of range\n')
+                            print('Please enter a valid input between {0} and {1}\n'.format(1, len(excel_files)))
                             input('Press Enter to continue...')
-                        except AttributeError:
+                        except AttributeError: # exception for column_to_rename not containing an extension
                             print('\nYour column choice has to contain proper file name with extensions.\n')
                             print('i.e. file.pdf\n')
                             input('Press Enter to continue...')
                             break
-                except xlrd.XLRDError as e:
-                    # exception for inproperly formatted files
+                except xlrd.XLRDError as e: # exception for inproperly formatted files
                     # for example:
                     # if you create a file this way without opening Excel:
                     #   touch file.xls(x) -> Excel will not recognize this as an .xls(x) file
