@@ -74,7 +74,7 @@ Enter the option number your Excel file is located at.
 
 <hr />
 
-<img width="566" alt="Usage_2" src="https://user-images.githubusercontent.com/6395465/59802831-a6a79780-929e-11e9-98f2-4fcc7bd4c7c0.png">
+<img width="570" alt="Usage_02" src="https://user-images.githubusercontent.com/6395465/61194098-3b21d180-a674-11e9-890c-440b482e3f73.png">
 
 After choosing your file, X Walk scans all the columns within your spreadsheet and lists them.<br />
 <br />
@@ -82,19 +82,19 @@ Enter the option number of the column containing the files you wish to rename.
 
 <hr />
 
-<img width="568" alt="Usage_3" src="https://user-images.githubusercontent.com/6395465/59804054-2d11a880-92a2-11e9-9ee1-9cc0f67edefa.png">
+<img width="570" alt="Usage_03" src="https://user-images.githubusercontent.com/6395465/61194112-4f65ce80-a674-11e9-80f3-34876db49580.png">
 
 Enter the option number of the column you are using to rename your original file.
 
 <hr />
 
-<img width="568" alt="Usage_4" src="https://user-images.githubusercontent.com/6395465/59804800-369c1000-92a4-11e9-8db0-75df34121b02.png">
+<img width="569" alt="Usage_04" src="https://user-images.githubusercontent.com/6395465/61194115-52f95580-a674-11e9-8df6-5ae2ba429e6f.png">
 
 Enter 'y'(es) or 'n'(o) to use another column.
 
 <hr />
 
-<img width="566" alt="Usage_7" src="https://user-images.githubusercontent.com/6395465/59806093-1706e680-92a8-11e9-8e90-2d8e400bf29c.png">
+<img width="568" alt="Usage_07" src="https://user-images.githubusercontent.com/6395465/61194118-55f44600-a674-11e9-87c0-f70127a3bd91.png">
 
 After selecting all the columns you wish to use by entering 'n', enter 'y' to rename your chosen files.
 
