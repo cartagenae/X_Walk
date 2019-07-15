@@ -66,7 +66,7 @@ __After installing the requirements file:__
 
 * Within your terminal/command prompt, navigate to the directory where all your files are located.
 
-<img width="571" alt="installation_02" src="https://user-images.githubusercontent.com/6395465/61195528-7d9bdc00-a67d-11e9-9473-60e06068e9ac.png">
+<img width="571" alt="installation_02" src="https://user-images.githubusercontent.com/6395465/61241999-816d4400-a6f9-11e9-8994-c5eb9c29f884.png">
 
 > NOTE: The path varies depending on where you placed your files.
 
