@@ -68,7 +68,7 @@ __After installing the requirements file:__
 
 <img width="571" alt="installation_02" src="https://user-images.githubusercontent.com/6395465/61195528-7d9bdc00-a67d-11e9-9473-60e06068e9ac.png">
 
-> NOTE: The path varies on different machines depending on where your files are located.
+> NOTE: The path varies depending on where you placed your files.
 
 ## How to Use ...
 
