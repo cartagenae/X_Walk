@@ -60,9 +60,14 @@ git --version
 __After installing the requirements file:__
 
 * Place the x_walk.py file in the same folder where the Excel file you're working with is located at.
-* Make sure that your original files documented on your Excel file are on the same folder as well.
+* Make sure your Excel spreadsheet is on the same folder as your files you wish to rename and your x_walk.py file.
+* Navigate in your terminal/command prompt to the directory  where all your files are located.
 
 <img width="771" alt="Screen Shot 2019-06-19 at 2 44 20 AM" src="https://user-images.githubusercontent.com/6395465/59755888-901d2400-923d-11e9-82e9-5d0371eae5bd.png">
+
+<img width="571" alt="installation_02" src="https://user-images.githubusercontent.com/6395465/61195528-7d9bdc00-a67d-11e9-9473-60e06068e9ac.png">
+
+> NOTE: The directory where all my files are stored is /Users/cartagenaea/Desktop/Files Folder. This varies on different machines.
 
 ## How to Use ...
 
