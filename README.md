@@ -1,6 +1,6 @@
 <img width="248" alt="x_walk" src="https://user-images.githubusercontent.com/6395465/59654061-6551a380-9149-11e9-8e5e-6756ac522262.png">
 
-Rename your files documented on your excel spreadsheet automatically
+Automatically rename your files documented on your excel spreadsheet
 
 ## Overview
 
@@ -61,13 +61,14 @@ __After installing the requirements file:__
 
 * Place the x_walk.py file in the same folder where the Excel file you're working with is located at.
 * Make sure your Excel spreadsheet is on the same folder as your files you wish to rename and your x_walk.py file.
-* Within your terminal/command prompt, navigate to the directory where all your files are located.
 
 <img width="771" alt="Screen Shot 2019-06-19 at 2 44 20 AM" src="https://user-images.githubusercontent.com/6395465/59755888-901d2400-923d-11e9-82e9-5d0371eae5bd.png">
 
+* Within your terminal/command prompt, navigate to the directory where all your files are located.
+
 <img width="571" alt="installation_02" src="https://user-images.githubusercontent.com/6395465/61195528-7d9bdc00-a67d-11e9-9473-60e06068e9ac.png">
 
-> NOTE: The directory where all my files are stored is /Users/cartagenaea/Desktop/Files Folder. This varies on different machines.
+> NOTE: The path varies on different machines depending on where your files are located.
 
 ## How to Use ...
 
