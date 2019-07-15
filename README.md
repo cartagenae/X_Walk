@@ -124,4 +124,4 @@ Type 'x' to close the program
 
 ## License
 
-X Walk is released under the MIT Licence. See the bundled LICENSE file for details.
+X Walk is released under the **MIT Licence**. See the bundled **LICENSE** file for details.
