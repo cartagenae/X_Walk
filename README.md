@@ -121,3 +121,7 @@ Check your folder to confirm your files have been renamed.
 Type 'x' to close the program
 
 <img width="568" alt="Usage_10" src="https://user-images.githubusercontent.com/6395465/59806657-f6d82700-92a9-11e9-818a-892651affda9.png">
+
+## License
+
+X Walk is released under the MIT Licence. See the bundled LICENSE file for details.
