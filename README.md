@@ -19,7 +19,7 @@ __Useful if you have thousands of files stored in your file system that you wish
 
 ## Requirements (Windows users only)
 
-__*** If you're running X Walk from the latest version of either MacOS or any Linux distribution, then Git and Python should be already installed in your system.__
+__*** If you're running X Walk from the latest version of MacOS or any Linux distribution, then both, Git and Python should be installed in your system.__
 
 
 ### Git
