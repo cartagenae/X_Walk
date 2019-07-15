@@ -194,12 +194,17 @@ if __name__ == '__main__':
                                 continue
                             walk(main_path, original_files, file_names)
                             break
-                        except ValueError as e: # exception for column_to_rename not as integer type
-                            print('ValueError exception: {0}'.format(e))
+                        except ValueError: # exception for column_to_rename not as integer type
+                            print('\nPlease enter the proper menu choice\n')
                             input('Press Enter to continue...')
                         except IndexError as e: # exception for column_to_rename out of range
-                            print('IndexError exception: {0}'.format(e))
+                            print('\nYour column choice is out of range\n')
                             input('Press Enter to continue...')
+                        except AttributeError:
+                            print('\nYour column choice has to contain proper file name with extensions.\n')
+                            print('i.e. file.pdf\n')
+                            input('Press Enter to continue...')
+                            break
                 except xlrd.XLRDError as e:
                     # exception for inproperly formatted files
                     # for example:
