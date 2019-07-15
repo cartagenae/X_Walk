@@ -4,8 +4,12 @@ Rename your files documented on your excel spreadsheet automatically
 
 ## Overview
 
+<img width="770" alt="overview_01" src="https://user-images.githubusercontent.com/6395465/61194978-0fa1e580-a67a-11e9-8756-fbcc63a49386.png">
+
+<img width="768" alt="overview_02" src="https://user-images.githubusercontent.com/6395465/61194979-12043f80-a67a-11e9-8e55-ef9652f3a31e.png">
+
 ### sample.xls
-<img width="588" alt="overview" src="https://user-images.githubusercontent.com/6395465/59730659-1151c800-91f8-11e9-910e-7215c0173d2f.png">
+<img width="588" alt="overview_03" src="https://user-images.githubusercontent.com/6395465/61194984-20eaf200-a67a-11e9-9d2c-9c05c3612cdb.png">
 
 __Useful if you have thousands of files stored in your file system that you wish to rename.__
 
