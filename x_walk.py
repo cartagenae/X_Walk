@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 __author__ = 'Eric Cartagena'
+__copyright__ = 'Copyright 2019, Eric Cartagena'
+__license__ = 'MIT'
 
 import pandas as pd
 import os
