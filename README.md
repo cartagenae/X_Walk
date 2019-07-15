@@ -13,7 +13,9 @@ Automatically rename your files documented on your excel spreadsheet
 
 __Useful if you have thousands of files stored in your file system that you wish to rename.__
 
-> NOTE: The files retain their original formats and extensions.
+> NOTE:
+> * The files retain their original formats and extensions.
+> * The columns (in this example the Profile column) do not get overwritten. If you wish to add this feature, Please let me know in the issues section.
 
 ## Requirements (Windows users only)
 
