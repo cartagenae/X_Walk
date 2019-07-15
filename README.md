@@ -15,7 +15,7 @@ __Useful if you have thousands of files stored in your file system that you wish
 
 > NOTE:
 > * The files retain their original formats and extensions.
-> * The columns (in this example the Profile column) do not get overwritten. If you wish to add this feature, Please let me know in the issues section.
+> * The columns (in this example the Profile column) do not get overwritten.
 
 ## Requirements (Windows users only)
 
