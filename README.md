@@ -22,12 +22,12 @@ __*** If you're running X Walk from the latest version of MacOS or any Linux dis
 
 
 ### Git
-<a href='https://git-scm.com/download/win' target='_blank'>https://git-scm.com/download/win</a>
+<a href='https://git-scm.com/download/win' target='_blank'>Visit Official Git site</a>
 
 ### Python
 > NOTE: Install the latest version of Python 3
 
-https://www.python.org/downloads/windows/
+<a href='https://www.python.org/downloads/windows/' target='_blank'>Visit Official Python site</a>
 
 ###### Check if you have Python installed on your machine:
 ```
