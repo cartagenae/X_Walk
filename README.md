@@ -1,6 +1,6 @@
 <img width="248" alt="x_walk" src="https://user-images.githubusercontent.com/6395465/59654061-6551a380-9149-11e9-8e5e-6756ac522262.png">
 
-Automatically rename your files documented on your excel spreadsheet
+Automatically rename your files documented on your excel spreadsheet. Useful if you have thousands of files stored in your file system that you wish to rename.
 
 ## Overview
 
@@ -10,8 +10,6 @@ Automatically rename your files documented on your excel spreadsheet
 
 ### sample.xls
 <img width="588" alt="overview_03" src="https://user-images.githubusercontent.com/6395465/61194984-20eaf200-a67a-11e9-9d2c-9c05c3612cdb.png">
-
-__Useful if you have thousands of files stored in your file system that you wish to rename.__
 
 > NOTE:
 > * The files retain their original formats and extensions.
