@@ -16,7 +16,7 @@
 > * The files retain their original formats and extensions.
 > * The data (in this example the Profile column) does not get overwritten within the spreadsheet.
 
-## Requirements (Windows users only)
+## Requirements
 
 __*** If you're running X Walk from the latest version of MacOS or any Linux distribution; then both, Git and Python should be installed in your system.__
 
@@ -46,6 +46,8 @@ python --version
 ```
 git --version
 ```
+
+##
 
 ## Installation
 
