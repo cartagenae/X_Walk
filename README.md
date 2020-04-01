@@ -48,7 +48,6 @@ python --version
 git --version
 ```
 <img width="573" alt="Screen Shot 2020-03-31 at 5 48 11 PM" src="https://user-images.githubusercontent.com/6395465/78088116-142d3c00-7378-11ea-8db0-775f037cd10a.png">
-##
 
 ## Installation
 
