@@ -20,20 +20,26 @@
 
 ### Git
 
-##### Mac / Linux
+##### Mac
 https://git-scm.com/download/mac
 
 ##### Windows
 https://git-scm.com/download/win
 
+##### Linux
+https://git-scm.com/download/linux
+
 ### Python
 > NOTE: Install the latest version of Python 3
 
-##### Mac / Linux
+##### Mac
 https://www.python.org/downloads/mac-osx/
 
 ##### Windows
 https://www.python.org/downloads/windows/
+
+##### Linux
+https://www.python.org/downloads/source/
 
 ##
 
