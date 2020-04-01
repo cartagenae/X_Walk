@@ -42,19 +42,13 @@ https://www.python.org/downloads/windows/
 ```
 python --version
 ```
-
 <img width="571" alt="Screen Shot 2020-03-31 at 5 48 49 PM" src="https://user-images.githubusercontent.com/6395465/78088083-fc55b800-7377-11ea-84eb-e054e0602d38.png">
-
 
 ###### Check if you have Git installed on your machine:
 ```
 git --version
 ```
-
 <img width="573" alt="Screen Shot 2020-03-31 at 5 48 11 PM" src="https://user-images.githubusercontent.com/6395465/78088116-142d3c00-7378-11ea-8db0-775f037cd10a.png">
-
-
-##
 
 ## Installation
 
