@@ -142,4 +142,4 @@ Type 'x' to close the program
 
 ## License
 
-X Walk is released under the **MIT License**. See the bundled **LICENSE** file for details.
+X Walk is released under the **MIT License**. See the bundled <a href='https://github.com/cartagenae/X_Walk/blob/master/LICENSE' alt='x walk license file'>**LICENSE**</a> file for details.
